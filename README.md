@@ -1,3 +1,5 @@
+Новые видео, статьи и полезности в Telegram: https://t.me/+2kqVrjV5aXs0NTRi 
+
 # Как выглядит результат:
 ![2024-03-17_14-16-03](https://github.com/morinad/timer/assets/44451631/db0227e4-2345-4cee-bc88-70479c76270f)
 ![2024-03-17_14-16-50](https://github.com/morinad/timer/assets/44451631/297b5ab3-568e-4ac8-85c7-0a00318ac43d)
