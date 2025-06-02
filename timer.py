@@ -1,7 +1,11 @@
 import time
 from pynput.mouse import Controller
 from datetime import datetime
+import json
+import math
 import os
+import sys
+import pandas as pd
 
 current_directory = os.getcwd()
 file_path = os.path.join(current_directory, "activity.txt")
