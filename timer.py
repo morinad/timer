@@ -4,6 +4,7 @@ from datetime import datetime
 import json
 import math
 import os
+import pandas as pd
 
 current_directory = os.getcwd()
 file_path = os.path.join(current_directory, "activity.txt")
